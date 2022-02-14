@@ -16,7 +16,7 @@
 
 ![victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victoremanuel12&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuel12&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuel12&layout=demo)](https://github.com/victoremanuel12)
 
 ###tecnologias
 <div  style="display:inline_block"/><br/>
