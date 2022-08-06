@@ -49,11 +49,17 @@ inline_block
 
 <h2>Apaixonado por desenvolvimento web!</h2>
 
-<h3>Ultimos projetos </h3>
+<h3>Ultimos projetos: </h3>
+<ul style="display:flex, flex-direction:column">
+	<a>
+		https://lnkd.in/dAnZ8r-i
+	</a>
+	<a>
+		https://lnkd.in/d_Sg6-mz
+	</a>
+</ul>
 
-https://lnkd.in/dAnZ8r-i
 
-https://lnkd.in/d_Sg6-mz
 
 https://lnkd.in/dJJyVhn7
 
