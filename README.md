@@ -21,9 +21,9 @@
 
 
 
-inline_block
+
 ###tecnologias
-<div  style="display:flex"/><br/>
+<div  style="display:inline_block"/><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -50,7 +50,7 @@ inline_block
 <h2>Apaixonado por desenvolvimento web!</h2>
 
 <h3>Ultimos projetos: </h3>
-<ul style="display:flex; flex-direction:column;">
+<ul style="display:inline_block;">
 	<a>
 		https://lnkd.in/dAnZ8r-i
 	</a>
