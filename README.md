@@ -24,7 +24,7 @@
 
 
 
-<h3>tecnologias</h3>
+<h3>Tecnologias</h3>
 <div  style="display:inline_block"/><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -56,9 +56,7 @@
 
 https://ecommercetecstore.vercel.app/
 
-
 https://lnkd.in/dJgqpRW6
-
 
 https://lnkd.in/d_Sg6-mz
 
