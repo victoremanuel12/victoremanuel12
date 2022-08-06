@@ -50,7 +50,7 @@ inline_block
 <h2>Apaixonado por desenvolvimento web!</h2>
 
 <h3>Ultimos projetos: </h3>
-<ul style="display:flex; flex-direction:column">
+<ul style="display:flex; flex-direction:column;">
 	<a>
 		https://lnkd.in/dAnZ8r-i
 	</a>
