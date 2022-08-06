@@ -1,4 +1,4 @@
-### Olá, eu sou Victor Emanuel👏
+<h1>Olá, eu sou Victor Emanuel👏 </h1>
  
 
 :computer: Eu sou desenvolvedor front-end!
@@ -49,7 +49,7 @@ inline_block
 
 <h2>Apaixonado por desenvolvimento web!</h2>
 
-##Ultimos projetos
+<h3>Ultimos projetos </h3>
 
 https://lnkd.in/dAnZ8r-i
 
