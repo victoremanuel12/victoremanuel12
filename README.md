@@ -41,7 +41,8 @@ inline_block
 
 
    <div dir="auto">
-	<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-	snake.svg"><img src="https://github.com/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></p>
+	<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-	snake.svg"><img src="![image](https://user-images.githubusercontent.com/93943734/183268192-b25cb416-fdff-4423-9576-92b2120798c8.png)
+" alt="Snake animation" style="max-width: 100%;"></p>
     </div>
 <div/>
 
