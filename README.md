@@ -51,7 +51,7 @@
 
 <h3>Ultimos projetos: </h3>
 <ul style="display:inline_block;">
-	<a>
+	<a style="display:block;">
 		https://lnkd.in/dAnZ8r-i
 	</a>
 	<a>
