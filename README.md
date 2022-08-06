@@ -16,7 +16,7 @@
 <br/>
 ![victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victoremanuel12&show_icons=true&theme=onedark)
 <a href=mailto:"victoremannuel1156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=mailto:<nowiki>agentavery@sample.com?subject="link HTML">Clique aqui para nos enviar um e-mail!</a>
+
 
 
 
