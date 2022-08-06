@@ -42,10 +42,13 @@
 	
 
 
-<div/><br/>
+<div/>
+<br/>
+
+
 Apaixonado por desenvolvimento web!
 
-###Ultimos projetos
+##Ultimos projetos
 
 https://lnkd.in/dAnZ8r-i
 
