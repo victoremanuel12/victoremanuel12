@@ -21,9 +21,9 @@
 
 
 
-
+inline_block
 ###tecnologias
-<div  style="display:inline_block"/><br/>
+<div  style="display:flex"/><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -35,6 +35,9 @@
 <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+
 
 <div dir="auto">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></p>
