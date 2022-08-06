@@ -54,8 +54,8 @@
 <h3>Ultimos projetos: </h3>
 	
 
-https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web
-
+<a href:"https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web
+">DeliveryApp</a>
 https://lnkd.in/d_Sg6-mz
 
 https://lnkd.in/dJJyVhn7
