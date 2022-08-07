@@ -58,7 +58,8 @@
 <h3>Ultimos projetos: </h3>
 
 
-https://ecommercetecstore.vercel.app/
+
+-[ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
 https://lnkd.in/dJgqpRW6
 
