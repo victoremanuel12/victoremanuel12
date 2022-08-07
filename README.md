@@ -3,8 +3,9 @@
 
 :computer: Eu sou desenvolvedor front-end!
 <br/>
-
 📱 (71)98855-2607
+<br/>
+📧 victoremannuel1156@gmail.com
 
 :house_with_garden: Brasileiro.
 
@@ -57,11 +58,19 @@
 
 <h3>Ultimos projetos: </h3>
 
+- [Food Delivery React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
+- [Ecommerce Loja de Tenis React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_react-desenvolvimento-reactnative-activity-6957792671021084672-BeO9?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
-- [ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
+- [Ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
 - [NetFlix clone com React.js e  APIs](https://lnkd.in/dJgqpRW6)<br/>
+
+- [Gestor de Projetos com React.js e  APIs](https://www.linkedin.com/posts/victor-emanuel-004636228_oportunidadedeemprego-javascript-react-ugcPost-6931410072531009536-eRM6?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+
+- [Jogo Da Velha  com React.js e APIs](https://tictactoe-react-game-o-x.netlify.app/)<br/>
+
+- [Calculadora com React.js](https://react-calculator-project-29052022.netlify.app/)<br/>
 
 - [Loja Hzc HTML,CSS, JS](https://lnkd.in/d_Sg6-mz)<br/>
 
