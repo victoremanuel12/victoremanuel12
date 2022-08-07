@@ -2,6 +2,7 @@
  
 
 :computer: Eu sou desenvolvedor front-end!
+📱 (71)988552607
 
 :house_with_garden: Brasileiro.
 
