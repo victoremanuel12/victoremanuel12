@@ -61,7 +61,7 @@
 
 - [Ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
-- [NetFlix clone com React.js e  APIs](https://lnkd.in/dJgqpRW6)<br/>
+- [Netflix clone com React.js e APIs](https://lnkd.in/dJgqpRW6)<br/>
 
 - [Gestor de Projetos com React.js e  APIs](https://www.linkedin.com/posts/victor-emanuel-004636228_oportunidadedeemprego-javascript-react-ugcPost-6931410072531009536-eRM6?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
