@@ -58,7 +58,7 @@
 
 <h2>Apaixonado por desenvolvimento web!</h2>
 
-<h3>Ultimos projetos: </h3>
+<h3>Últimos projetos: </h3>
 
 - [Food Delivery React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
