@@ -59,7 +59,7 @@
 
 
 
--[ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
+- [ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
 https://lnkd.in/dJgqpRW6
 
