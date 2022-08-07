@@ -61,7 +61,7 @@
 
 - [ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
-- [NetFlix clone com React.js  abd APIs](https://lnkd.in/dJgqpRW6)<br/>
+- [NetFlix clone com React.js e  APIs](https://lnkd.in/dJgqpRW6)<br/>
 
 - [Loja Hzc HTML,CSS, JS](https://lnkd.in/d_Sg6-mz)<br/>
 
