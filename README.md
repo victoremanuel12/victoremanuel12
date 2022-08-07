@@ -2,10 +2,12 @@
  
 
 :computer: Eu sou desenvolvedor front-end!<br/>
+
 📱 (71)98855-2607<br/>
+
 📧 victoremannuel1156@gmail.com<br/>
 
-[Currículo](https://drive.google.com/file/d/16XKsf4VSNlQzPgoYepinRykyihllcVGr/view?usp=sharing)<br/>
+📖[Currículo](https://drive.google.com/file/d/16XKsf4VSNlQzPgoYepinRykyihllcVGr/view?usp=sharing)<br/>
 
 :house_with_garden: Brasileiro.
 
