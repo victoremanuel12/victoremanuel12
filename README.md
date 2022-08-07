@@ -61,15 +61,17 @@
 
 - [ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
 
-https://lnkd.in/dJgqpRW6
+- [NetFlix clone com React.js  abd APIs](https://lnkd.in/dJgqpRW6)<br/>
 
-https://lnkd.in/d_Sg6-mz
+- [Loja Hzc HTML,CSS, JS](https://lnkd.in/d_Sg6-mz)<br/>
 
-https://lnkd.in/dJJyVhn7
+- [Loja Barbearia  HTML,CSS, JS](https://lnkd.in/dTQM8kif)<br/>
 
-https://lnkd.in/dTQM8kif
+- [Loja Rey(freeLancer,loja no cetro de Lauro de Freitas/BA)  HTML,CSS, JS](https://victoremanuel12.github.io/loja-rey/)<br/>
 
-https://victoremanuel12.github.io/loja-rey/
+
+
+
 
 
 
