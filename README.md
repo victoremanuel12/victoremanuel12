@@ -54,7 +54,10 @@
 <h2>Apaixonado por desenvolvimento web!</h2>
 
 <h3>Últimos projetos:</h3>
+
+
 - [Youtube Clone React.js](https://www.linkedin.com/feed/update/urn:li:activity:6984247275711565824/)<br/>
+
 - [Food Delivery React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
 
 - [Ecommerce Loja de Tenis React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_react-desenvolvimento-reactnative-activity-6957792671021084672-BeO9?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
