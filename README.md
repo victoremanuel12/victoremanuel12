@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Victor Emanuel👏 </h1>
  
 
-:computer: Eu sou desenvolvedor front-end!<br/>
+:computer: Desenvolvedor de software<br/>
 
 📱 (71)98855-2607<br/>
 
