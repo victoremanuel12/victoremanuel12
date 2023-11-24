@@ -13,7 +13,7 @@
 
 :books: Disposto a aprender tudo.
 
-:outbox_tray: Pretenções para 2022: Buscando novos projetos e trabalhos na área.
+:outbox_tray: Pretenções para 2024: Buscando novos projetos e trabalhos na área.
 
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoremanuel12)
