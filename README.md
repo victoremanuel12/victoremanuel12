@@ -79,8 +79,9 @@
 
 <h3>Últimos projetos:</h3>
 
+- [Sistema de alugueis de materiais de eventos C# ](https://github.com/victoremanuel12/TccProjectMatrizDecor)<br/>
 
-- [Biblioteca de Livros C# MVC](https://github.com/victoremanuel12/SorvilWebApp/tree/main)<br/>
+- [Biblioteca de Livros C# ](https://github.com/victoremanuel12/SorvilWebApp/tree/main)<br/>
 
 - [Youtube Clone React.js](https://www.linkedin.com/feed/update/urn:li:activity:6984247275711565824/)<br/>
 
