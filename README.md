@@ -78,32 +78,19 @@
 <h2>Apaixonado por desenvolvimento web!</h2>
 
 <h3>Últimos projetos:</h3>
-
 - [Sistema de alugueis de materiais de eventos C# ](https://github.com/victoremanuel12/TccProjectMatrizDecor)<br/>
-
 - [Biblioteca de Livros C# ](https://github.com/victoremanuel12/SorvilWebApp/tree/main)<br/>
-
 - [Youtube Clone React.js](https://www.linkedin.com/feed/update/urn:li:activity:6984247275711565824/)<br/>
-
 - [Food Delivery React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_javascript-react-frontend-activity-6961380104966926336-mXDb?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
-
 - [Ecommerce Loja de Tenis React.js, React Native, Expo](https://www.linkedin.com/posts/victor-emanuel-004636228_react-desenvolvimento-reactnative-activity-6957792671021084672-BeO9?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
-
 - [Ecommerce com React, Next.js, Sanity](https://ecommercetecstore.vercel.app/)<br/>
-
+- [Gestor de Projetos com React.js e APIs](https://www.linkedin.com/posts/victor-emanuel-004636228_oportunidadedeemprego-javascript-react-ugcPost-6931410072531009536-eRM6?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+- [Loja Hzc](https://lnkd.in/d_Sg6-mz)<br/>
+- [Loja Rey(freeLancer,Lauro de Freitas/BA)](https://victoremanuel12.github.io/loja-rey/)<br/>
 - [Netflix clone com React.js e APIs](https://lnkd.in/dJgqpRW6)<br/>
-
-- [Gestor de Projetos com React.js e  APIs](https://www.linkedin.com/posts/victor-emanuel-004636228_oportunidadedeemprego-javascript-react-ugcPost-6931410072531009536-eRM6?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
-
-- [Jogo Da Velha  com React.js e APIs](https://tictactoe-react-game-o-x.netlify.app/)<br/>
-
+- [Loja Barbearia](https://lnkd.in/dTQM8kif)<br/>
 - [Calculadora com React.js](https://react-calculator-project-29052022.netlify.app/)<br/>
-
-- [Loja Hzc HTML,CSS, JS](https://lnkd.in/d_Sg6-mz)<br/>
-
-- [Loja Barbearia  HTML,CSS, JS](https://lnkd.in/dTQM8kif)<br/>
-
-- [Loja Rey(freeLancer,loja no cetro de Lauro de Freitas/BA)  HTML,CSS, JS](https://victoremanuel12.github.io/loja-rey/)<br/>
+- [Jogo Da Velha  com React.js e APIs](https://tictactoe-react-game-o-x.netlify.app/)<br/>
 
 
 
