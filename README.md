@@ -1,7 +1,7 @@
 <h1>Olá, eu sou Victor Emanuel👏 </h1>
  
 
-:computer: Desenvolvedor de software<br/>
+:computer: Software developer<br/>
 
 📱 (71)98855-2607<br/>
 
@@ -10,8 +10,6 @@
 📖 [Currículo](https://drive.google.com/file/d/1HLcQe1So-K1fNrOALCLc6rENCPxzEQmd/view?usp=drive_link)<br/>
 
 :house_with_garden: Brasileiro.
-
-:books: Disposto a aprender tudo.
 
 :outbox_tray: Pretenções para 2024: Buscando novos projetos e trabalhos na área.
 
