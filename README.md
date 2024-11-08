@@ -70,9 +70,6 @@
 
 - [Loja Barbearia](https://lnkd.in/dTQM8kif)<br/>
 
-- [Calculadora com React.js](https://react-calculator-project-29052022.netlify.app/)<br/>
-
-- [Jogo Da Velha  com React.js e APIs](https://tictactoe-react-game-o-x.netlify.app/)<br/>
 
 
 
