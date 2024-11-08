@@ -7,7 +7,7 @@
 
 📧 victoremannuel1156@gmail.com<br/>
 
-📖 [Currículo](https://drive.google.com/file/d/1tpSLwqC9NYdPyyUsooUpKoP38ThNPaWf/view?usp=sharing)<br/>
+📖 [Currículo](https://drive.google.com/file/d/1HLcQe1So-K1fNrOALCLc6rENCPxzEQmd/view?usp=drive_link)<br/>
 
 :house_with_garden: Brasileiro.
 
